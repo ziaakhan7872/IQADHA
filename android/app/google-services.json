@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "936284648626",
+    "project_id": "iqadha-b5781",
+    "storage_bucket": "iqadha-b5781.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936284648626:android:20be1b808e626f986845ab",
+        "android_client_info": {
+          "package_name": "com.iqadha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936284648626-43499pm5mm3lribd9rb45o7tt1kcqlrr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iqadha",
+            "certificate_hash": "12eb136dfea6fe620c8e26a090aacb67b56f1008"
+          }
+        },
+        {
+          "client_id": "936284648626-onpdqnljvod9ls861d9rsab5pj7300nu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpeFlRz8adYgUlc-QibjQdDtkrA_RLFk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936284648626-onpdqnljvod9ls861d9rsab5pj7300nu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

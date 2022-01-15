@@ -1,0 +1,46 @@
+{
+  "language" : {
+    "english" : {
+      "pageContent" : {
+        "aboutUs" : {
+          "aboutUsContent" : "You never forget the first time you see the Kabah... _n_n The first time I did my Umrah I learned about all the missed (qadha) prayers in my life, how to make up for them, calculating them and the importance of never missing another prayer! _n_n The journey back from Madinah was mixed with tears and determination. With just a pen and a paper in my hand I calculated my missed prayers. When the final figure reached to an astronomical point. I knew this was serious business. Allah (swt) loves pure intentions and I wanted to really make my Umrah count. _n_n I decided to make an app so I could track and monitor all my prayers. More importantly I wanted to keep it in the cloud so I knew, if anything happened to me or the server - it will always be around. _n_n Thus iQadha was born. I hope it becomes a source of success in the Hereafter and be a source of Khair for me and the Ummah inshaa-Allah.",
+          "aboutUsTitle" : "About iQadha"
+        },
+        "faq" : {
+          "faqTitle" : "Frequently Asked Questions",
+          "questionnaire" : [ null, {
+            "answer" : "Sayyidina Jabir bin Abdullah (ra) narrated that on the day of Al-Khandaq (The battle of Trench) `Umar bin Al-Khattab came cursing the disbelievers of Quraish after the sun had set and said, \"O Allah's Messenger (saw) I could not offer the `Asr prayer till the sun had set. \"The Prophet (saw) said, \"By Allah! I, too, have not prayed.\" So we turned towards Buthan, and the Prophet (saw) performed ablution and we too performed ablution and offered the `Asr prayer after the sun had set, and then he offered the Maghrib prayer.[Bukhari] _n_n Alhamdulilah. There are plenty of resources available online that answer many questions regarding Qadha salah. The purpose of our app is to aid you. We highly recommend you speak to your local scholar because all four Imams are on view that Qadha is obligatory. _n_n Futhermore, Qatada reported it on the authority of Anas bin Malik (ra) that the Messenger of Allah (saw) said: When any one of you omits the prayer due to sleep or he forgets it, he should observe it when he remembers it, for Allah has said: \"Observe prayer for remembrance of Me.\" [Muslim]",
+            "question" : "1 - What is the Islamic ruling and evidence regarding praying Qadha Salah?"
+          }, {
+            "answer" : "Qadha Salah is calculated with a simple formula. _n_n A = Baligh Date – Present Date _n_n B = Total Qadha _n A x 6 (5 Salah + Witr) _n_n Example, Ahmad was Baligh in January 2012. _n January 2012 – January 2018 = 2190 days _n 2190 x 6 = 13,140 _n Ahmad needs to pray 13,140 salah.",
+            "question" : "2 - How is the Qadha calculated?"
+          }, {
+            "answer" : "Order doesn’t have to be observed when making up past prayers, if more than six in total. You can make them up in any order. [ref: Shurunbulali, Maraqi al-Falah]",
+            "question" : "3 - Do I have to pray them in order? Example, I can spend an entire weekend on praying Fajr?"
+          }, {
+            "answer" : "There are some short cut methods on the Internet which suggest skipping Sunnah in prayers and thus shortening it but such a prayer would be devoid of blessings and lessen the reward. _n_n However, you could try these tips: _n_n - Always try to be in wudhu. _n_n - Perform one qadha salah before or after every fardh salah. _n_n -Pray a full set of 6 after Jummah. _n_n - Pray extra qadha during Ramadhan and on the weekends. _n_n - Pray in privacy – this method works exceptionally well, especially for night Tahajud prayers. “If you want to know how close you are to Allah, think about how you spend your time alone”. _n_n - Start small remain keep consistent. Stones make mountains. Once you are strict in your routine and you feel you can add more than add more. _n_n - Share this app and encourage friends and family.",
+            "question" : "4 - Are there any shortcuts or “hacks” to quickly pray Qadha?"
+          }, {
+            "answer" : "No. There is no Qadha for Salaah missed due to menses (haidh).",
+            "question" : "5 - Do I need to make pray Qadha Salah due to menses?"
+          }, {
+            "answer" : "No. There is Qadha for Salah missed due to postpartum -post natal/ nifaas- bleeding.",
+            "question" : "6 - Do I need to make Qadha for postpartum - post natal/nifaas - bleeding?"
+          }, {
+            "answer" : "Only Salah missed before the emerging of half of the baby/ fetus.",
+            "question" : "7 - Do I need to make Qadha for Salah during labour?"
+          }, {
+            "answer" : "Yes. If jummuah was missed then one will have to perform Zuhr when making up for it.",
+            "question" : "8 - Do I need to make up for missed Jummah?"
+          }, {
+            "answer" : "Yes. After Fajr and Asr nawafil are not allowed, however Qadha are permitted.",
+            "question" : "9 - Can Qadha be performed after Fajr and Asr Salah?"
+          }, {
+            "answer" : "No",
+            "question" : "10 - Does Qadha Salah need to be performed for Taraweeh?"
+          } ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+module Pods_iqadha {
+  umbrella header "Pods-iqadha-umbrella.h"
+
+  export *
+  module * { export * }
+}

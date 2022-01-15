@@ -1,0 +1,57 @@
+diff --git a/node_modules/react-native-calendar-picker/CalendarPicker/Controls.js b/node_modules/react-native-calendar-picker/CalendarPicker/Controls.js
+index ab9b9f5..30539d3 100644
+--- a/node_modules/react-native-calendar-picker/CalendarPicker/Controls.js
++++ b/node_modules/react-native-calendar-picker/CalendarPicker/Controls.js
+@@ -25,7 +25,7 @@ export default function Controls(props) {
+     >
+       <View style={{opacity: disabled ? 0 : 1}}>
+         { component ||
+-          <Text style={[textStyles]}>
++          <Text style={[textStyles,{color:'#CDCDD7'}]}>
+             { label }
+           </Text>
+         }
+diff --git a/node_modules/react-native-calendar-picker/CalendarPicker/HeaderControls.js b/node_modules/react-native-calendar-picker/CalendarPicker/HeaderControls.js
+index 8abdffd..426c5c5 100644
+--- a/node_modules/react-native-calendar-picker/CalendarPicker/HeaderControls.js
++++ b/node_modules/react-native-calendar-picker/CalendarPicker/HeaderControls.js
+@@ -63,11 +63,11 @@ export default function HeaderControls(props) {
+             { monthName }
+           </Text>
+         </TouchableOpacity>
+-        <TouchableOpacity onPress={onPressYear}>
++        {/* <TouchableOpacity onPress={onPressYear}>
+           <Text style={[styles.yearHeaderMainText, textStyle, yearTitleStyle]}>
+             { year }
+           </Text>
+-        </TouchableOpacity>
++        </TouchableOpacity> */}
+       </View>
+       <Controls
+         disabled={disableNextMonth}
+diff --git a/node_modules/react-native-calendar-picker/CalendarPicker/makeStyles.js b/node_modules/react-native-calendar-picker/CalendarPicker/makeStyles.js
+index 50b6bce..960413e 100644
+--- a/node_modules/react-native-calendar-picker/CalendarPicker/makeStyles.js
++++ b/node_modules/react-native-calendar-picker/CalendarPicker/makeStyles.js
+@@ -83,15 +83,15 @@ export function makeStyles(params) {
+     },
+ 
+     selectedDay: {
+-      width: 30*scaler,
+-      height:30*scaler,
+-      borderRadius: getBorderRadiusByShape(scaler, dayShape),
+-      alignSelf: 'center',
+-      justifyContent: 'center'
++      // width: 30*scaler,
++      // height:30*scaler,
++      // borderRadius: getBorderRadiusByShape(scaler, dayShape),
++      // alignSelf: 'center',
++      // justifyContent: 'center'
+     },
+ 
+     selectedDayBackground: {
+-      backgroundColor: SELECTED_BG_COLOR,
++      //backgroundColor: SELECTED_BG_COLOR,
+     },
+ 
+     selectedToday: {
